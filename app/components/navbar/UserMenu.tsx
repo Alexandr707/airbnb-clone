@@ -1,5 +1,5 @@
 'use client';
-import useRegisterModal from '@/app/api/hooks/useRegisterModal';
+import useRegisterModal from '@/app/hooks/useRegisterModal';
 import { useCallback, useState } from 'react';
 import { AiOutlineMenu } from 'react-icons/ai';
 import Avatar from '../Avatar';
